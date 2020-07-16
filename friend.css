@@ -150,7 +150,7 @@ clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
 }
 
 
-@media screen and (max-width:42px){
+@media screen and (max-width:500px){
   .clipped-border{
     width:100px;
     height:100px;

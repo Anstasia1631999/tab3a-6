@@ -110,29 +110,31 @@ img{
   left:588px;
 }
 
-.clipped-border:nth-child(8){
-  top:196px;
-  left:823px;
-    text-align: center
-}
 
-.clipped-border:nth-child(9){
+
+.clipped-border:nth-child(8){
   top:392px;
   left:235px;
 }
-.clipped-border:nth-child(10){
+.clipped-border:nth-child(9){
   top:392px;
   left:470px;
     text-align: center
 }
-.clipped-border:nth-child(11){
+.clipped-border:nth-child(10){
   top:392px;
   left:705px;
 }
 
-.clipped-border:nth-child(12){
+.clipped-border:nth-child(11){
   top:588px;
   left:354px;
+}
+
+.clipped-border:nth-child(12){
+  top:588px;
+  left:472px;
+    text-align: center
 }
 
 #clipped {

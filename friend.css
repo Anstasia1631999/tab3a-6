@@ -27,7 +27,7 @@ html,body{
 
 .shadow{
   position: absolute;
-  top: 700px;
+  top: 900px;
   left: 100px;
   width: 500px;
   height: 40px;
@@ -133,7 +133,7 @@ img{
 
 .clipped-border:nth-child(12){
   top:588px;
-  left:472px;
+  left:500px;
     text-align: center
 }
 
